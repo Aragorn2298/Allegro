@@ -1,6 +1,10 @@
 al-main INFO: Allegro initialised (instance 1)
-al-main INFO: Allegro initialised (instance 2)
-al-gfx INFO: Called set_gfx_mode(2, 1360, 799, 0, 0).
+al-gfx INFO: Called set_gfx_mode(2, 1300, 450, 0, 0).
 al-gfx INFO: First call, remembering console state.
 al-gfx INFO: Autodetecting graphic driver.
-al-gfx ERROR: Failed setting graphic driver 0.
+al-gfx INFO: The driver will wait for vsync.
+al-gfx INFO: set_gfx_card success for 1300x450x16.
+al-gfx INFO: Called set_gfx_mode(-1, 0, 0, 0, 0).
+al-gfx INFO: Closing graphics driver (6569FD70) DirectDraw window.
+al-gfx INFO: Closing, restoring original console state.
+al-gfx INFO: Graphic mode closed.

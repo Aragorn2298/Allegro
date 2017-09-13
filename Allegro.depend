@@ -15,13 +15,14 @@
 
 1475900490 \\psf\host\volumes\c\users\davidmendoza\desktop\allegro\inicia.h
 
-1505135941 source:c:\users\rbara\desktop\nueva carpeta\allegro\inicia.cpp
-	"inicia.h"
+1505312699 source:c:\users\rbara\desktop\nueva carpeta\allegro\inicia.cpp
 	<allegro.h>
 
-1475904090 c:\users\rbara\desktop\nueva carpeta\allegro\inicia.h
+1505312757 c:\users\rbara\desktop\nueva carpeta\allegro\inicia.h
 
-1505233213 source:c:\users\rbara\desktop\nueva carpeta\allegro\main.cpp
+1505342715 source:c:\users\rbara\desktop\nueva carpeta\allegro\main.cpp
 	<allegro.h>
+	<iostream>
 	"inicia.h"
+	<stdio.h>
 
